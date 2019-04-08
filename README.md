@@ -1,6 +1,6 @@
 # startup_namer
 
-A new Flutter application.
+A new Flutter application that keeps on generating random English words in a ListView, so that the user can pick his favourite startup_names, and on the action of clicking the AppBar icon, the user is navigated to a new screen showing the selected ones only.
 
 ## Getting Started
 
